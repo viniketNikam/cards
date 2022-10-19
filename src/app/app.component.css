@@ -1,0 +1,23 @@
+.container {
+  width: fit-content;
+  margin: 0 auto;
+}
+.card {
+  border: 2px solid black;
+  margin: 5px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 250px;
+  background-color: black;
+  color: aliceblue;
+}
+.myImg {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+.age {
+  color: yellow;
+}
